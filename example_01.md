@@ -3,6 +3,7 @@
 Giving *you* the **power** over your documents.
 
 Email any questions to <rob.canning@coventry.ac.uk>
+![Smile](rob.jpeg)
 
 ## Introduction
 > Markdown is a way to style text on the web. You control the display of the document; formaing words as
